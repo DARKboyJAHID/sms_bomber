@@ -97,7 +97,7 @@ class DARK_HACKER_JAHID:
     def DARK_LG():
         DARK_HACKER_JAHID.CLR()
         print("""\033[38;5;205m\033[1m
-🔥 DARK HACKER BD 💝\n
+🤍 DARK HACKER BD 🤍\n
  ╦  ╔═╗  ╦ ╦  ╦  ╔╦╗  ╦ ╦  ╦  
  ║  ╠═╣  ╠═╣  ║   ║║  ║ ║  ║  
 ╚╝  ╩ ╩  ╩ ╩  ╩  ═╩╝  ╚═╝  ╩═╝""")
